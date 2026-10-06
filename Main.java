@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Classe principal para execução e teste das funcionalidades do sistema da Livraria.
  * 
- * @author Aluno - BSI (POO I)
+ * @author Cristyan Véssimo Gomes de Oliveria - BSI (POO I)
  */
 public class Main {
     private static Livraria livraria = new Livraria();

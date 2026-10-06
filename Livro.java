@@ -1,7 +1,7 @@
 /**
  * Classe que representa um Livro na Livraria.
  * 
- * @author Aluno - BSI (POO I)
+ * @author Cristyan Véssimo Gomes de Oliveria - BSI (POO I)
  */
 public class Livro {
     private String isbn;

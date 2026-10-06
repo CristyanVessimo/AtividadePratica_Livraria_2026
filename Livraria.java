@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * Classe responsável por gerenciar a coleção de livros.
  * 
- * @author Aluno - BSI (POO I)
+ * @author Cristyan Véssimo Gomes de Oliveria - BSI (POO I)
  */
 public class Livraria {
     private List<Livro> livros;
